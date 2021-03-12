@@ -1,3 +1,11 @@
+## Introduction
+My name is Ben McMaster and I am an aspiring Data Analyst. This is where my latest projects are posted.
+I am to get experience in Data Analysis through Python, R, Tableau and Excel.
+
+I am currently working at NEC Australia on a Government contract where I work as both a Service Delivery Sepcialist and Reporting Analayst. I do the majority of reporting and analysis for data in and out of the technical and billing systems.
+
+Current resume download: <a href="https://github.com/benmcmaster1/benmcmaster1.github.io/raw/main/BenMcMaster_Resume.pdf">Resume</a>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/benmcmaster1/benmcmaster1.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
