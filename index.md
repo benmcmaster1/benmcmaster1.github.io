@@ -1,8 +1,8 @@
 ## Introduction
-My name is Ben McMaster and I am an aspiring Data Analyst. This is where my latest projects are posted.
-I am to get experience in Data Analysis through Python, R, Tableau and Excel.
+My name is Ben McMaster and I am Data/Reporting Analyst. This is where my latest projects are posted.
+Below is demonstrated experience in Data Analysis through Python, Tableau, and Power BI.
 
-I am currently working at NEC Australia on a Government contract where I work as both a Service Delivery Sepcialist and Reporting Analayst. I do the majority of reporting and analysis for data in and out of the technical and billing systems.
+I am currently working at NEC Australia on a Government contract where I work as a Data/Reporting Analayst. I do the majority of reporting and analysis for data in and out of the technical and billing systems, providing insights to cost and system management.
 
 Current resume download: <a href="https://github.com/benmcmaster1/benmcmaster1.github.io/raw/main/BenMcMaster_Resume.pdf">Resume</a>
 
